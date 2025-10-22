@@ -22,5 +22,5 @@ testpullfilecache*
 package-lock.json
 yarn.lock
 /.vs
-typings/types.d.ts
-typings/promiseBasedTypes.d.ts
+#typings/types.d.ts
+#typings/promiseBasedTypes.d.ts
